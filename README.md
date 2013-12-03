@@ -1,6 +1,8 @@
 NamecoinLLC
 ===========
 
+A structure for creating a lawfully constituted business organization (in this case, organized under the laws of Deleware), in such a way that anyone can purchase a share or many shares of ownership without being known
+
 Crypto currencies are going to transform the very nature of collective business ownership.
 
 
